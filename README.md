@@ -73,9 +73,9 @@ Currently, I work as a **Technical Consultant at Leader Corporate**, specializin
 
 ---
 
-## 📊 GitHub Analytics
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="top">
       <!-- Added &count_private=true and &include_all_commits=true to capture entire history -->
@@ -91,9 +91,8 @@ Currently, I work as a **Technical Consultant at Leader Corporate**, specializin
       <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahNarejo58&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Languages Insight" />
     </td>
   </tr>
-</table>
+</table> -->
 
-## 🏆 Achievements & Badges
 
 <!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
