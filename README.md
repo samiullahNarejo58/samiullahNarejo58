@@ -78,7 +78,8 @@ Currently, I work as a **Technical Consultant at Leader Corporate**, specializin
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=samiullahNarejo58&show_icons=true&theme=radical&count_private=true" alt="Sami's GitHub Stats" />
+      <!-- Added &count_private=true and &include_all_commits=true to capture entire history -->
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=samiullahNarejo58&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sami's Total GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiullahNarejo58&theme=tokyonight" alt="Sami's Commit Streak" />
@@ -86,16 +87,15 @@ Currently, I work as a **Technical Consultant at Leader Corporate**, specializin
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" style="padding-top: 15px;">
-      <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahNarejo58&layout=compact&theme=radical" alt="Top Languages" />
+      <!-- Added &count_private=true to language breakdowns so it calculates your internal Odoo/Python work -->
+      <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullahNarejo58&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Languages Insight" />
     </td>
   </tr>
 </table>
 
----
-
 ## 🏆 Achievements & Badges
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=samiullahNarejo58&theme=radical&column=7" alt="Sami's Trophies" width="100%"/>
   </a>
@@ -103,4 +103,4 @@ Currently, I work as a **Technical Consultant at Leader Corporate**, specializin
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=samiullahNarejo58&label=Profile%20Views&color=00A09D&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
